@@ -1,0 +1,10 @@
+- [x] setup Watson STT service: cloud.ibm.com/catalog
+- [] clone Live STT Code: https://github.com/IBM/watson-streaming-stt
+- [] Install dependencies: pip install -r requirements.txt
+- [] install pipwin if errors on windows installing pyaudio
+- [] update setup/config with APIKEY
+- [] Run Live transcription 
+
+
+APIKEY: jcUVg_bGT__tleMjZvPWPmxAR-XSInVk7VcWvqQ8QiQq
+Region: au-syd  
